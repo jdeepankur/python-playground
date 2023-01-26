@@ -10,3 +10,4 @@ q0 b q1 b R
 q1 a qr a L
 q1 b qr a L
 q1 _ qa b L
+€€€€€€€€€€€€
